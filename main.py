@@ -100,8 +100,8 @@ def main(inited, mainF):
         print(diaryLastMSG)
         diaryMSGList.append(diaryLastMSG)
 
-    print(countOfCycles)
-    print(inited[2])
+    #print(countOfCycles)
+    #print(inited[2])
     s(60)
     countOfCycles += 1    
     if countOfCycles == inited[2]:
